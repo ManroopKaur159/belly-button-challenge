@@ -35,7 +35,7 @@ This included details such as age, gender, ethnicity, and location.
 The `optionChanged()` function was implemented to trigger updates to all charts and panels whenever a new sample was selected.
 
 6. Deployment- The app was deployed using GitHub Pages for easy accessibility:
-GitHub Pages- Deployment URL: [Deployed App](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/)
+GitHub Pages- Deployment URL: https://manroopkaur159.github.io/belly-button-challenge/
 Visit the link to see the live version of the dashboard.
 
 7. Open the index.html file in your browser- open index.html
